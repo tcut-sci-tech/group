@@ -250,24 +250,10 @@ txt5 {
 }
 
 /*---------- セクション ---------- */
-.sec01 {
-  margin: 0 0 0 0;
-	height: auto;
-	background-image: url("https://tcut-sci-tech.github.io/photo/%E7%94%9F%E7%89%A9.png");
-  background-size: cover;
-}
-
 .sec02 {
   margin: 0 0 0 0;
 	height: auto;
 	background-image: url("https://tcut-sci-tech.github.io/photo/%E6%8A%80%E8%A1%93.png");
-  background-size: cover;
-}
-
-.sec03 {
-  margin: 0 0 0 0;
-	height: auto;
-	background-image: url("https://tcut-sci-tech.github.io/photo/%E5%9C%B0%E5%AD%A6.png");
   background-size: cover;
 }
 
