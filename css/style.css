@@ -13,7 +13,7 @@ h1 {
   font-size: 5.5vw;
   text-align: center;
   font-weight: 800;
-  color: #000000;
+  color: #000;
 }
 
 h2 {
@@ -22,7 +22,7 @@ h2 {
   font-size: 5.5vw;
   text-align: center;
   font-weight: 800;
-  color: #ffffff;
+  color: #fff;
 }
 
 h3 {
@@ -31,7 +31,7 @@ h3 {
   font-size: 1.5vw;
   text-align: center;
   font-weight: 800;
-  color: #ffffff;
+  color: #fff;
 }
 
 h4 {
@@ -40,7 +40,7 @@ h4 {
   font-size: 2.3vw;
   text-align: center;
   font-weight: 800;
-  color: #ffffff;
+  color: #fff;
 }
 
 h4:hover{
@@ -53,7 +53,7 @@ h5 {
   font-size: 1.7vw;
   text-align: right;
   font-weight: 800;
-  color: #ffffff;
+  color: #fff;
 }
 
 h5:hover{
@@ -65,7 +65,7 @@ a {
   position: relative;
   font-size: 1.7vw;
   font-weight: 500;
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -74,7 +74,7 @@ txt1 {
   position: relative;
   font-size: 2vw;
   font-weight: 500;
-  color: #000000;
+  color: #000;
 }
 
 txt2 {
@@ -82,7 +82,7 @@ txt2 {
   position: relative;
   font-size: 2vw;
   font-weight: 500;
-  color: #ffffff;
+  color: #fff;
 }
 
 txt3 {
@@ -90,7 +90,7 @@ txt3 {
   position: relative;
   font-size: 3vw;
   font-weight: 800;
-  color: #000000;
+  color: #000;
 }
 
 txt4 {
@@ -98,15 +98,7 @@ txt4 {
   position: relative;
   font-size: 2.5vw;
   font-weight: 800;
-  color: #cc0000;
-}
-
-txt5 {
-  margin: 0 0 0 0;
-  position: relative;
-  font-size: 2vw;
-  font-weight: 800;
-  color: #cc0000;
+  color: #f00;
 }
 
 /*---------- 画像切り替え ---------- */
@@ -182,20 +174,16 @@ txt5 {
   position: relative;
   text-decoration: none;
 	display: inline-block;
-	background:#009fe8;
+	background:#00a7ea;
 	color:#fff;
   padding: 10px 40px 10px 30px;
 	border-radius:25px;
   text-align: center;
   outline: none;
   transition: ease .2s;
-  font-size: 1.7vw;
+  font-size: 2.3vw;
   font-weight: 600;
-  color: #ffffff;
-}
-
-.btn06:hover{
-  background:#4ab8f7;
+  color: #fff;
 }
 
 .btnarrow2::after{
@@ -226,16 +214,16 @@ txt5 {
 /*---------- ボックス ---------- */
 .box30 {
   margin: 1.5vw 0vw 0vw 0vw;
-  background: #f1f1f1;
+  background: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
 }
 
 .box30 .box-title {
   font-size: 3vw;
-  background: #00a7eb;
+  background: #00a7ea;
   padding: 0.3vw;
   text-align: center;
-  color: #ffffff;
+  color: #fff;
   font-weight: bold;
   letter-spacing: 0.05vw;
 }
@@ -245,7 +233,7 @@ txt5 {
   position: relative;
   font-size: 2vw;
   font-weight: 500;
-  color: #000000;
+  color: #000;
   padding: 1vw 1vw 1vw 1vw;
 }
 
@@ -278,7 +266,7 @@ txt5 {
 .sec02 {
   margin: 0 0 0 0;
 	height: auto;
-	background-color: #dcdcdc;
+	background-color: #ccc;
 }
 
 .sec05 {
@@ -366,7 +354,7 @@ txt5 {
   width: 30%;
   padding:0vw;
   margin: 0vw 0vw 0vw 0vw;
-  background-color: #009fe8;
+  background-color: #00a7ea;
 }
 
 .c_div img {
@@ -380,7 +368,7 @@ txt5 {
   width: 30%;
   padding:0vw;
   margin: 0vw 0vw 0vw 0vw;
-  background-color: #2857b1;
+  background-color: #036eb7;
 }
 
 .d_div img {
