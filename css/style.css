@@ -3,7 +3,7 @@
 /*---------- 文字 ---------- */
 body {
   font-family: 'M PLUS 1p', 'Montserrat', sans-serif;
-  margin: 0;
+  margin: 0 0 0 0;
   padding: 0;
 }
 
@@ -25,39 +25,19 @@ h2 {
   color: #fff;
 }
 
-h3 {
+h6 {
   margin: 0 0 0 0;
   position: relative;
-  font-size: 1.5vw;
+  font-size: 3.5vw;
   text-align: center;
   font-weight: 800;
   color: #fff;
 }
 
-h4 {
-  margin: 0 0 0 0;
-  position: relative;
-  font-size: 2.3vw;
-  text-align: center;
-  font-weight: 800;
-  color: #fff;
-}
-
-h4:hover{
-  opacity: 0.5;
-}
-
-h5 {
-  margin: 0 0 0 0;
-  position: relative;
-  font-size: 1.7vw;
-  text-align: right;
-  font-weight: 800;
-  color: #fff;
-}
-
-h5:hover{
-  opacity: 0.5;
+ul{
+	margin: 0 0 0 0;
+	padding: 0;
+	list-style: none;
 }
 
 a {
@@ -99,6 +79,54 @@ txt4 {
   font-size: 2.5vw;
   font-weight: 800;
   color: #f00;
+}
+
+tit1 {
+  margin: 0 0 0 0;
+  position: relative;
+  font-size: 2.3vw;
+  font-weight: 800;
+  color: #fff;
+}
+
+tit1:hover{
+  opacity: 0.5;
+}
+
+tit2 {
+  margin: 0 0 0 0;
+  position: relative;
+  font-size: 1.7vw;
+  font-weight: 800;
+  color: #fff;
+}
+
+tit2:hover{
+  opacity: 0.5;
+}
+
+tit3 {
+  margin: 0 0 0 0;
+  position: relative;
+  font-size: 1.5vw;
+  font-weight: 800;
+  color: #fff;
+}
+
+tit4 {
+  margin: 0 0 0 0;
+  position: relative;
+  font-size: 3.5vw;
+  font-weight: 800;
+  color: #000;
+}
+
+tit5 {
+  margin: 0 0 0 0;
+  position: relative;
+  font-size: 3.5vw;
+  font-weight: 800;
+  color: #fff;
 }
 
 /*---------- 画像切り替え ---------- */
